@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    cursor: none;
+}
+
+h1{
+    color: white;
+}
+
+.cursor{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: beige;
+    top: 0;
+    left: 0;
+    border-radius: 100%;
+}
